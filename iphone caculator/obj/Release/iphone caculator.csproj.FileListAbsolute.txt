@@ -1,0 +1,16 @@
+C:\Users\mrkataei\source\repos\iphone caculator\iphone caculator\bin\Release\iphone caculator.exe.config
+C:\Users\mrkataei\source\repos\iphone caculator\iphone caculator\bin\Release\iphone caculator.exe
+C:\Users\mrkataei\source\repos\iphone caculator\iphone caculator\bin\Release\iphone caculator.pdb
+C:\Users\mrkataei\source\repos\iphone caculator\iphone caculator\obj\Release\iphone caculator.csproj.AssemblyReference.cache
+C:\Users\mrkataei\source\repos\iphone caculator\iphone caculator\obj\Release\iphone caculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrkataei\source\repos\iphone caculator\iphone caculator\obj\Release\MainWindow.g.cs
+C:\Users\mrkataei\source\repos\iphone caculator\iphone caculator\obj\Release\App.g.cs
+C:\Users\mrkataei\source\repos\iphone caculator\iphone caculator\obj\Release\iphone caculator_MarkupCompile.cache
+C:\Users\mrkataei\source\repos\iphone caculator\iphone caculator\obj\Release\iphone caculator_MarkupCompile.lref
+C:\Users\mrkataei\source\repos\iphone caculator\iphone caculator\obj\Release\MainWindow.baml
+C:\Users\mrkataei\source\repos\iphone caculator\iphone caculator\obj\Release\iphone caculator.g.resources
+C:\Users\mrkataei\source\repos\iphone caculator\iphone caculator\obj\Release\iphone_caculator.Properties.Resources.resources
+C:\Users\mrkataei\source\repos\iphone caculator\iphone caculator\obj\Release\iphone caculator.csproj.GenerateResource.cache
+C:\Users\mrkataei\source\repos\iphone caculator\iphone caculator\obj\Release\iphone caculator.csproj.CoreCompileInputs.cache
+C:\Users\mrkataei\source\repos\iphone caculator\iphone caculator\obj\Release\iphone caculator.exe
+C:\Users\mrkataei\source\repos\iphone caculator\iphone caculator\obj\Release\iphone caculator.pdb
